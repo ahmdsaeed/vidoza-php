@@ -3,7 +3,7 @@
 require_once 'vidozaClass.php';
 
 # Pass your API key from the VIDOZA user panel in here
-$vdz = new VidozaMain('https://api.vidoza.net/v1','1d0ntkn0wh4tk3y2g1v3th1s');
+$vdz = new VidozaMain('https://api.vidoza.net/v1','fZo7tgmSjLPXe1ChnvGh8YuxIBkKU7Sivn8JoVnP4kCQ8TUpivc5VeZTzBxa');
 
 # Get file status
 /* Arguments (in array):
